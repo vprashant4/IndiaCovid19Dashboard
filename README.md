@@ -1,6 +1,6 @@
-# India Covid19 Dashboard
+# India Covid-19 Dashboard
 
-###### Top 10 confirmed, cured, deaths cases visualisation, mortality rate and total state cases on map visualisation, daily case counts, Indian state filters which we can see cases by states. 
+###### Top 10 confirmed, cured, deaths cases visualisation, mortality rate and total state cases on map visualisation, daily case counts, Indian state filters which we can see cases by statewise. 
 
 ![](India_Covid19_Dashboard.png)
 
